@@ -30,10 +30,12 @@ const Navbar = () => {
           Open an Account
         </p>
 
+        <div className="flex items-center gap-x-2">
         <Image src={Profile} alt="Profile" />
         <span className="font-medium text-[#36485C] hidden lg:block">
           Sign In
         </span>
+        </div>
 
         <Image src={Menu} alt="Menu" className="lg:hidden" />
       </div>
