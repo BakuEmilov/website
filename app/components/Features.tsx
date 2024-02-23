@@ -140,7 +140,7 @@ const Features = () => {
             game-changing feature. Get a birds eye view with our customizable
             dashboard.{" "}
           </p>
-          
+
           <div className="flex w-full items-center gap-x-[24px]">
             <div className="w-1/2 flex flex-col gap-y-3">
               <h3 className="text-[20px] font-medium">100+</h3>
